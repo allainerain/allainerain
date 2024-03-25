@@ -21,7 +21,7 @@
 ## Some things I've Worked On:
 - [💻 My Portfolio Site](https://allaine.vercel.app/): Designed and coded my own little corner of the internet. 🌱
 - [🤖 Mask Patrol](https://github.com/allainerain/CS180-MaskPatrol): Trained and deployed a face-mask and social distancing detection model on a  web app.
-- [📈 Exploratory Data Analysis of Fake News Case](https://github.com/allainerain/CS180-MaskPatrol): Analyzed the effects of different persuasion methods of Tweets containing disinformation to public perception.
+- [📈 Exploratory Data Analysis of Fake News Case](https://overdrivengain.github.io/cs132-portfolio/): Analyzed the effects of different persuasion methods of Tweets containing disinformation to public perception.
 - [📈 Agent Based Modelling of Disease Spread](https://colab.research.google.com/drive/16SWczdJnxQIFhFeX_kbTlX4wt_WyqG-H?usp=sharing): Modelled disease spread in UP Diliman's Department of Computer Science to inform policy making and maximize student productivity.
 - [💻 Home Buddies Website](https://www.homebuddies.community/): Designed and developed a website for a Facebook community of 3M+ members.
 - [💻 Google Developer Student Clubs Website](https://gdsc-diliman.netlify.app/): My first web design project.
