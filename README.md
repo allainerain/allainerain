@@ -1,4 +1,7 @@
 ﻿# Hi there, I'm Allaine! 👋
+![](https://komarev.com/ghpvc/?username=allainerain&label=Visitors) 
+
+Hi, newest visitor!
 
 ## About Me:
 - 📚 I'm a 3rd year standing Computer Science student from the University of the (sunny 🌞) Philippines!
