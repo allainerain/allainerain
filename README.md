@@ -15,7 +15,7 @@ Hi, newest visitor!
 - 🌐 Web Development: Svelte/SvelteKit
 - 📊 Data Analysis: Pandas, NumPy, Plotly
 - 🤖 AI/ML: PyTorch, TensorFlow, Scikit-learn
-- 🚀 Tools: Git, Figma
+- 🚀 Tools: Git, Figma, Spline
 
 ## I'm Working On:
 - [SUSe](https://github.com/bbcarrots/SUSe): Developing a library inventory tracking system and data visualization dashboard for UP's Engineering Library 
