@@ -18,7 +18,8 @@ Hi, newest visitor!
 - 🚀 Tools: Git, Figma, Spline
 
 ## I'm Working On:
-- [SUSe](https://github.com/bbcarrots/SUSe): Developing a library inventory tracking system and data visualization dashboard for UP's Engineering Library 
+- [💻 SUSe](https://github.com/bbcarrots/SUSe): Developing a library inventory tracking system and data visualization dashboard for UP's Engineering Library
+- [🌐 BerdeBox](https://github.com/bbcarrots/BerdeBox): Developing a remote delivery pickup system
 
 
 ## Some things I've Worked On:
