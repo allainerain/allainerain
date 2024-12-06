@@ -4,8 +4,8 @@
 Hi, newest visitor!
 
 ## About Me:
-- 📚 I'm a 3rd year standing Computer Science student from the University of the (sunny 🌞) Philippines!
-- 💻 I specialize in product design, although I dabble in data science, machine learning and software development. Instead of sticking to one thing, I like finding problems and designing solutions that bring different areas together. Basically, I come up with an idea for something cool, then learn whatever I need to build it!
+- 📚 I'm a final year Computer Science undergrad from the University of the (sunny 🌞) Philippines!
+- 💻 My research interest lies in human-AI collaboration, with a focus on the intersection of human-computer interaction (HCI), computational social science, and applied machine learning. 
 - 🌱 Other words to describe me: ambitious, curious, proactive, perfectionist
 
 ## Tech Stack:
