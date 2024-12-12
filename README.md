@@ -18,8 +18,9 @@ Hi, newest visitor!
 - 🚀 Tools: Git, Figma, Spline
 
 ## I'm Working On:
-- [🤖 Leveraging LLM agents to assist in EDA while reducing overreliance]: Undergraduate thesis project. Stay tuned!
-- [💻 SUSe](https://github.com/bbcarrots/SUSe): Developed a library inventory tracking system for UP's Engineering Library. Currently revamping for deployment.
+- 🤖 Leveraging LLM agents to assist in EDA while reducing overreliance: Undergraduate thesis project. Stay tuned!
+- [🧑 DormyPH](https://github.com/Dormy-PH): Working on the fastest-growing rental platform in the Philippines.
+- [💻 SUSe](https://github.com/bbcarrots/SUSe): Developed a library inventory tracking system for UP's Engineering Library. Revamping for deployment.
 
 ## Some things I've Worked On:
 - [💻 My Portfolio Site](https://allaine.vercel.app/): Designed and coded my own little corner of the internet. 🌱
