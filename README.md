@@ -18,12 +18,12 @@ Hi, newest visitor!
 - 🚀 Tools: Git, Figma, Spline
 
 ## I'm Working On:
-- [💻 SUSe](https://github.com/bbcarrots/SUSe): Developing a library inventory tracking system and data visualization dashboard for UP's Engineering Library
-- [🌐 BerdeBox](https://github.com/bbcarrots/BerdeBox): Developing a remote delivery pickup system
-
+- [🤖 Leveraging LLM agents to assist in EDA while reducing overreliance]: Undergraduate thesis project. Stay tuned!
+- [💻 SUSe](https://github.com/bbcarrots/SUSe): Developed a library inventory tracking system for UP's Engineering Library. Currently revamping for deployment.
 
 ## Some things I've Worked On:
 - [💻 My Portfolio Site](https://allaine.vercel.app/): Designed and coded my own little corner of the internet. 🌱
+- [🌐 BerdeBox](https://github.com/bbcarrots/BerdeBox): Developed a remote delivery pickup system. Receive your deliveries anywhere, anytime.
 - [🤖 Mask Patrol](https://github.com/allainerain/CS180-MaskPatrol): Trained and deployed a face-mask and social distancing detection model on a  web app.
 - [📈 Exploratory Data Analysis of Fake News Case](https://overdrivengain.github.io/cs132-portfolio/): Analyzed the effects of different persuasion methods of Tweets containing disinformation to public perception.
 - [📈 Agent Based Modelling of Disease Spread](https://colab.research.google.com/drive/16SWczdJnxQIFhFeX_kbTlX4wt_WyqG-H?usp=sharing): Modelled disease spread in UP Diliman's Department of Computer Science to inform policy making and maximize student productivity.
@@ -32,7 +32,7 @@ Hi, newest visitor!
 
 
 ## Fun Facts:
-- 📚 I'm an aspiring polyglot. I'm working on improving my Mandarin (intermediate) and Bahasa Indonesia (beginner).
+- 📚 I'm an aspiring polyglot. I'm working on improving my Mandarin (intermediate) and Bahasa Indonesia (beginner). If you speak any of those languages, I'd love to chat!
 - 🎨 When I'm not coding, I love creating other things through different means. Particularly, I like crocheting, knitting, [illustration](https://www.instagram.com/allaine.psd/) and [cycling](https://allaine.vercel.app/blog/cycling-journey).
 
 ## How To Reach Me?
