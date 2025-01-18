@@ -34,7 +34,8 @@ Hi, newest visitor!
 
 ## Fun Facts:
 - 📚 I'm an aspiring polyglot. I'm working on improving my Mandarin (intermediate) and Bahasa Indonesia (beginner). If you speak any of those languages, I'd love to chat!
-- 🎨 When I'm not coding, I love creating other things through different means. Particularly, I like crocheting, knitting, [illustration](https://www.instagram.com/allaine.psd/) and [cycling](https://allaine.vercel.app/blog/cycling-journey).
+- 🎨 When I'm not coding, I love creating other things through different means. Particularly, I like crocheting, knitting, [illustration](https://www.instagram.com/allaine.psd/)
+- 🏋️‍♀️ I also love to keep active with weight training, climbing 🧗‍♀️, yoga 🧘‍♀️and and [cycling 🚴‍♀️](https://allaine.vercel.app/blog/cycling-journey). With the occasional occasional run.
 
 ## How To Reach Me?
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/allaine-tan/)
